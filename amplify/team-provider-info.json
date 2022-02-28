@@ -1,0 +1,20 @@
+{
+  "staging": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-reactlogin-staging-132556-authRole",
+      "UnauthRoleArn": "arn:aws:iam::929688610366:role/amplify-reactlogin-staging-132556-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::929688610366:role/amplify-reactlogin-staging-132556-authRole",
+      "Region": "eu-north-1",
+      "DeploymentBucketName": "amplify-reactlogin-staging-132556-deployment",
+      "UnauthRoleName": "amplify-reactlogin-staging-132556-unauthRole",
+      "StackName": "amplify-reactlogin-staging-132556",
+      "StackId": "arn:aws:cloudformation:eu-north-1:929688610366:stack/amplify-reactlogin-staging-132556/f61b3840-9899-11ec-baac-0aadfb62e39e",
+      "AmplifyAppId": "dxs0cocvhvqzw"
+    },
+    "categories": {
+      "auth": {
+        "reactlogin": {}
+      }
+    }
+  }
+}
